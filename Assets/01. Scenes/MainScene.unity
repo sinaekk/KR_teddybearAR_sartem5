@@ -133,11 +133,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2393193155608497477, guid: b70671ea57eaf814481123d80caf7dea, type: 3}
       propertyPath: ID
-      value: "1.24_\u3068\u308A\u3084\u307E\u3042\u304D\u3089"
+      value: "2.26_\uAE40\uC2DC\uB0B4"
       objectReference: {fileID: 0}
     - target: {fileID: 2393193155608497477, guid: b70671ea57eaf814481123d80caf7dea, type: 3}
       propertyPath: csvUrl
-      value: https://docs.google.com/spreadsheets/d/1eGgtkyEFGhi0qkopIo8KtYz2amiPiI2tGC2qkiJnc24/export?format=csv
+      value: https://docs.google.com/spreadsheets/d/1MzmDQ6H7D1hZwDcrwN9oM4FzJTaTQdffcsvgC3k_7wA/export?format=csv
       objectReference: {fileID: 0}
     - target: {fileID: 4045418123073165428, guid: b70671ea57eaf814481123d80caf7dea, type: 3}
       propertyPath: m_LocalScale.y
