@@ -15,7 +15,7 @@ namespace FUTUREVISION
         public string Message = "";
 
         // 공개된 CSV URL (예: 구글 시트의 경우 시트ID와 export 파라미터 포함)
-        public string csvUrl = "https://docs.google.com/spreadsheets/d/1ykRlU_1313KEArLXg5AXMIZA6d8U5u_NfhBzQAIsV60/export?format=csv";
+        public string csvUrl = "https://docs.google.com/spreadsheets/d/1MzmDQ6H7D1hZwDcrwN9oM4FzJTaTQdffcsvgC3k_7wA/export?format=csv";
 
         public UnityEvent<string> OnDataLoaded = new UnityEvent<string>();
 
